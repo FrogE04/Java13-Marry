@@ -1,0 +1,2 @@
+include ':app', ':lib13'
+rootProject.name='My Application'
