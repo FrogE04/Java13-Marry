@@ -13,9 +13,9 @@ public class MyClass {
                 System.out.println("You can marry ! ");
             if((i==1)&&(j<18))
                 System.out.println("You can't marry ! ");
-            if((i==2)&&(j>=18))
+            if((i==2)&&(j>=16))
                 System.out.println("You can marry ! ");
-            if((i==2)&&(j<18))
+            if((i==2)&&(j<16))
                 System.out.println("You can't marry ! ");
         }
 }
